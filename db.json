@@ -1,16 +1,9 @@
 {
-    "users": [
+    "todo": [
         {
-          "id": 1,
-          "name": "Gertrudis Tatterton",
-          "age": 18,
-          "email": "gtatterton0@ehow.com"
+          "title": "Task-1",
+          "status": true,
+          "id": "0.5750139861120132Task-1"
         }
-    ],
-
-    "products":[
-      {
-        "name":"jeans"
-      }
     ]
 }
