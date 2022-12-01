@@ -5,5 +5,12 @@
           "status": true,
           "id": "0.5750139861120132Task-1"
         }
-    ]
+    ],
+    "signup": [
+      {
+        "email": "@gmail.com",
+        "status": true,
+        "id": "0.5750139861120132Task-1"
+      }
+  ]
 }
